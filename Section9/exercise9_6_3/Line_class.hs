@@ -1,0 +1,1 @@
+data Line = Line { number :: Int , string :: String } deriving Show
